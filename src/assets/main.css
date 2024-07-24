@@ -1,0 +1,167 @@
+/* Reset and Base Styles */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.6;
+    background-color: #f8f9fa;
+    color: #333;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-weight: bold;
+    color: #333;
+}
+
+p {
+    margin-bottom: 1.5rem;
+}
+
+/* end reset */
+
+.primary-color {
+    color: #da8a12 !important;
+}
+
+.primary-bg {
+    background-color: #da8a12;
+    border-radius: 30px;
+    font-weight: bold;
+}
+
+.dark-bg {
+    background-color: #111;
+}
+
+.custom-btn {
+    padding: 4px 30px !important;
+}
+
+
+
+.hero {
+    background-image: url('../assets/images/hero-bg.jpg');
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+    text-align: center;
+    padding: 20% 0;
+    height: 100vh;
+}
+
+.hero h1 {
+    font-size: 6rem;
+    margin-bottom: 20px;
+}
+
+.hero p {
+    font-size: 1rem;
+    margin-bottom: 30px;
+}
+
+.hero .btn-primary {
+    font-size: 1.2rem;
+    padding: 12px 32px;
+    border-radius: 25px;
+    font-weight: bold;
+    background-color: #da8a12;
+    border-color: #da8a12;
+}
+
+.hero .btn-primary:hover {
+    background-color: #da8a12;
+    border-color: #da8a12;
+    text-decoration: none;
+}
+
+.services {
+    padding: 80px 0;
+}
+
+.services h2 {
+    font-size: 2.5rem;
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+.services .card {
+    border: none;
+    transition: transform 0.3s ease;
+    border-bottom: 5px solid transparent;
+}
+
+.services .card:hover {
+    transform: translateY(-10px);
+    border-bottom: 5px solid #da8a12;
+}
+
+.services .card-title {
+    font-size: 1.8rem;
+    font-weight: bold;
+    margin-bottom: 15px;
+}
+
+.services .card-text {
+    font-size: 1.1rem;
+    color: #555;
+        height: 80px;
+}
+
+.user-card {
+    background-color: rgba(128, 128, 128, 0.26);
+}
+
+
+.footer {
+    background-color: #111;
+    color: #fff;
+    padding: 30px 0;
+    text-align: center;
+}
+
+.footer p {
+    margin-bottom: 0;
+}
+
+@media (max-width: 768px) {
+    .navbar-nav .nav-link {
+        font-size: 1rem;
+        margin-left: 0.5rem;
+        margin-right: 0.5rem;
+    }
+
+    .hero h1 {
+        font-size: 2.5rem;
+    }
+
+    .hero p {
+        font-size: 1.2rem;
+    }
+
+    .services .card-title {
+        font-size: 1.5rem;
+    }
+
+    .services .card-text {
+        font-size: 1rem;
+    }
+}
+
+.wrapper {
+    min-height: calc(100vh - 150px);
+    padding-top: 30px;
+}
+
+
+/* */
+
+
