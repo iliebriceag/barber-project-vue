@@ -22,8 +22,7 @@
                                                 <i class="bi bi-geo-alt-fill"></i>
                                             </div>
                                             <div class="text">
-                                                <p> 198 West 21th Street, Suite 721 New York NY
-                                                    10016</p>
+                                                <p> Bulevardul Uverturii 118, București 077042 </p>
                                             </div>
                                         </div>
                                     </div>
@@ -33,7 +32,7 @@
                                                 <i class="bi bi-telephone-fill"></i>
                                             </div>
                                             <div class="text">
-                                                <p>+ 1235 2355 98</p>
+                                                <p>0761 234 567</p>
                                             </div>
                                         </div>
                                     </div>
@@ -43,7 +42,7 @@
                                                 <i class="bi bi-envelope-open-fill"></i>
                                             </div>
                                             <div class="text">
-                                                <p>info@yoursite.com</p>
+                                                <p>contact@maostudio.ro</p>
                                             </div>
                                         </div>
                                     </div>
