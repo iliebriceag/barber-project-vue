@@ -69,6 +69,7 @@
 
 .gallery-card {
     margin-bottom: 20px;
+    z-index: 9999999999;
 }
 
 </style>
