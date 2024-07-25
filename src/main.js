@@ -8,9 +8,13 @@ import './assets/main.css'
 import './assets/animations.css'
 import myTitle from './components/Title.vue'
 
+//Lightbox2
+import 'lightbox2/dist/css/lightbox.min.css'
+import lightbox2 from 'lightbox2/dist/js/lightbox-plus-jquery.min.js'
 
 createApp(App)
 .use(bootstrap)
 .use(router)
+.use(lightbox2)
 .component('my-title', myTitle)
 .mount('#app')

@@ -7,42 +7,42 @@
             <div class="container">
                 <my-title name="Galerie Foto"/>
                 <div class="mt-5 mb-5">
-                    <div class="row">
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 1">
+                    <div class="row gallery">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 2">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 3">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 4">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 5">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 6">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 1">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 2">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 3">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 4">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 5">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
-                        <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 6">
+                        <div class="image col-md-4 col-6 gallery-card">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
                     </div>
                 </div>

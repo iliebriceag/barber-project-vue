@@ -131,25 +131,26 @@
             <div class="container">
                 <my-title name="Galerie Foto" />
                 <div class="mt-5 mb-4\5">
-                    <div class="row">
+                    <div class="row gallery">
                         <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 1">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 2">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 3">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 4">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 5">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 6">
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
                         </div>
+                       
                     </div>
                     <div class="more float-end btn-more"> <router-link to="/galerie" class="text-decoration-none text-white"><i class="bi bi-chevron-compact-right me-1"></i>Vezi mai multe...</router-link></div>
                 </div>
