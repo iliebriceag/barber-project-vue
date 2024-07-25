@@ -110,7 +110,7 @@ export default {
   right: 0;
   height: 70px;
   background-color: #111;
-  z-index: 99999;
+  z-index: 9;
 }
 
 .top-bar .top-bar-left {
