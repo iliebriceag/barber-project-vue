@@ -5,9 +5,27 @@
 
             <section id="gallery" class="gallery">
             <div class="container">
-                <h2 class="text-center">Galerie Foto</h2>
-                <div class="mt-5 mb-4\5">
+                <my-title name="Galerie Foto"/>
+                <div class="mt-5 mb-5">
                     <div class="row">
+                        <div class="col-md-4 col-6 gallery-card">
+                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 1">
+                        </div>
+                        <div class="col-md-4 col-6 gallery-card">
+                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 2">
+                        </div>
+                        <div class="col-md-4 col-6 gallery-card">
+                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 3">
+                        </div>
+                        <div class="col-md-4 col-6 gallery-card">
+                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 4">
+                        </div>
+                        <div class="col-md-4 col-6 gallery-card">
+                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 5">
+                        </div>
+                        <div class="col-md-4 col-6 gallery-card">
+                            <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 6">
+                        </div>
                         <div class="col-md-4 col-6 gallery-card">
                             <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 1">
                         </div>

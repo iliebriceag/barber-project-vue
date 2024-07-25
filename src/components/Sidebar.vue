@@ -34,8 +34,8 @@
             <div class="col-6">
               <div class="top-bar-right">
                 <div class="social">
-                  <a href=""><i class="bi bi-telephone-fill"></i></a>
-                  <a href=""><i class="bi bi-whatsapp"></i></a>
+                  <a href="tel:0722669299"><i class="bi bi-telephone-fill"></i></a>
+                  <a href="https://wa.me/+40722669299"><i class="bi bi-whatsapp"></i></a>
                 </div>
               </div>
             </div>

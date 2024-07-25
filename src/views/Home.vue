@@ -10,22 +10,24 @@
                 <div class="row">
                     <div class="col-md-4 animate fadeInRight">
                         <div class="media">
-                            <h5 class="d-flex text-white"><i class="bi bi-telephone-fill me-1"></i>0761 234 567</h5>
+                            <h5 class="d-flex text-white"><i class="bi bi-telephone-fill me-1"></i>0722 669 299</h5>
                             <p class="ms-4 text-secondary">Sunați-ne 24/7, vă vom răspunde cât mai repede</p>
                         </div>
                     </div>
                     <div class="col-md-4 animate fadeInRight one">
                         <div class="media">
-                          
+
                             <div class="media-body">
-                                <h5 class="d-flex text-white"><i class="bi bi-geo-alt-fill me-1"></i>București, Sector 6</h5>
+                                <h5 class="d-flex text-white"><i class="bi bi-geo-alt-fill me-1"></i>București, Sector 6
+                                </h5>
                                 <p class="ms-4 text-secondary">Bulevardul Uverturii 118, București 077042</p>
                             </div>
                         </div>
                     </div>
                     <div class="col-md-4 animate fadeInRight two">
                         <div class="media">
-                            <h5 class="d-flex text-white"><i class="bi bi-clock-fill me-1"></i>Zilnic: 08:00 - 19:00</h5>
+                            <h5 class="d-flex text-white"><i class="bi bi-clock-fill me-1"></i>Zilnic: 08:00 - 19:00
+                            </h5>
                             <p class="ms-4 text-secondary">Luni - Vineri, Sâmbătă <br> Duminică: ÎNCHIS</p>
                         </div>
                     </div>
@@ -45,7 +47,7 @@
                             client în parte, luând în considerare preferințele individuale și tendințele actuale în
                             modă.
                         </p>
-                        <a href="#" class="btn btn-primary animate fadeInDown two">Programare
+                        <a href="https://wa.me/+40722669299" class="btn btn-primary animate fadeInDown two">Programare
                             online</a>
                     </div>
                 </div>
@@ -54,7 +56,9 @@
 
         <section id="services" class="services">
             <div class="container">
-                <h2>Serviciile Noastre</h2>
+
+                <my-title name="Serviciile Noastre" />
+
                 <div class="row row-cols-2 row-cols-md-3 row-cols-lg-6  text-center">
                     <div class="col-lg-4 mt-4 fadein">
                         <div class="card">
@@ -125,7 +129,7 @@
 
         <section id="gallery" class="gallery">
             <div class="container">
-                <h2 class="text-center">Galerie Foto</h2>
+                <my-title name="Galerie Foto" />
                 <div class="mt-5 mb-4\5">
                     <div class="row">
                         <div class="col-md-4 col-6 gallery-card">
@@ -147,6 +151,7 @@
                             <img src="../assets/images/barber-hero.jpg" class="gallery-img" alt="Photo 6">
                         </div>
                     </div>
+                    <div class="more float-end btn-more"> <router-link to="/galerie" class="text-decoration-none text-white"><i class="bi bi-chevron-compact-right me-1"></i>Vezi mai multe...</router-link></div>
                 </div>
             </div>
         </section>
@@ -155,7 +160,7 @@
             <div class="container">
                 <div class="row">
                     <div class="mb-4">
-                        <h2 class="text-center">Listă prețuri</h2>
+                        <my-title name="Listă prețuri" />
                     </div>
                     <div class="card border-0 p-3">
                         <div>
@@ -236,10 +241,11 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded" alt="Despre Noi">
+                        <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded image-right" alt="Despre Noi">
                     </div>
-                    <div class="col-lg-6 card border-0 p-3 fadein">
-                        <h2>Despre Noi</h2>
+                    <div class="col-lg-6 card border-0 p-3 fadein card-left">
+                        <my-title name="Despre Noi" />
+
                         <p> Suntem o echipă specializată în aranjarea și îngrijirea părului și a bărbii,
                             oferim servicii personalizate pentru bărbați. Noi vă asigurăm menținerea
                             aspectului îngrijit și elegant, sfaturi și recomandări pentru îngrijirea părului și a
@@ -253,32 +259,32 @@
 
         <section class="mt-5 mb-5" id="contact">
             <div class="container">
-                <div class="row justify-content-center">
-                    <div class="col-md-6 text-center mb-5">
-                        <h2>Contact</h2>
-                    </div>
-                </div>
+                <my-title name="Contact" />
                 <div class="row justify-content-center">
                     <div class="col-md-12">
                         <div class="wrapper">
                             <div class="row mb-5">
                                 <div class="col-md-2">
                                     <div class="dbox w-100 text-center">
-                                        <div class="icon d-flex align-items-center justify-content-center">
-                                            <i class="bi bi-geo-alt-fill"></i>
-                                        </div>
-                                        <div class="text">
+                                        <a href="http://maps.google.com/?q=Bulevardul Uverturii 118" class="text-white">
+                                            <div class="icon d-flex align-items-center justify-content-center">
+                                                <i class="bi bi-geo-alt-fill"></i>
+                                            </div>
+                                        </a>
+                                        <div class="text-muted">
                                             <p> Bulevardul Uverturii 118, București 077042 </p>
                                         </div>
                                     </div>
                                 </div>
                                 <div class="col-md-2">
                                     <div class="dbox w-100 text-center">
-                                        <div class="icon d-flex align-items-center justify-content-center">
-                                            <i class="bi bi-telephone-fill"></i>
-                                        </div>
-                                        <div class="text">
-                                            <p>0761 234 567</p>
+                                        <a href="tel:0722669299" class="text-white">
+                                            <div class="icon d-flex align-items-center justify-content-center">
+                                                <i class="bi bi-telephone-fill"></i>
+                                            </div>
+                                        </a>
+                                        <div class="text-muted">
+                                            <p>0722 669 299</p>
                                         </div>
                                     </div>
                                 </div>
@@ -287,7 +293,7 @@
                                         <div class="icon d-flex align-items-center justify-content-center">
                                             <i class="bi bi-envelope-open-fill"></i>
                                         </div>
-                                        <div class="text">
+                                        <div class="text-muted">
                                             <p>contact@maostudio.ro</p>
                                         </div>
                                     </div>
@@ -297,7 +303,7 @@
                                         <div class="icon d-flex align-items-center justify-content-center">
                                             <i class="bi bi-facebook"></i>
                                         </div>
-                                        <div class="text">
+                                        <div class="text-muted">
                                             <p>/Mao Studio</p>
                                         </div>
                                     </div>
@@ -307,7 +313,7 @@
                                         <div class="icon d-flex align-items-center justify-content-center">
                                             <i class="bi bi-instagram"></i>
                                         </div>
-                                        <div class="text">
+                                        <div class="text-muted">
                                             <p>/Mao Studio</p>
                                         </div>
                                     </div>
@@ -378,6 +384,31 @@
 
 
 <style scoped>
+.btn-more {
+    background-color: #da8a12;
+    padding: 3px 15px;
+    border: none;
+    border-radius: 5px;
+}
+
+.card-left {
+    margin-left: -100px;
+}
+
+.image-right {
+    margin-left: 100px;
+}
+
+@media only screen and (max-width : 992px) {
+    .card-left {
+        margin-left: 0;
+    }
+
+    .image-right {
+        margin-left: 0;
+    }
+}
+
 .info {
     position: absolute;
     top: 20px;
@@ -396,6 +427,10 @@
 
 .gallery-card {
     margin-bottom: 20px;
+}
+
+.more {
+    cursor: pointer;
 }
 
 /*  */

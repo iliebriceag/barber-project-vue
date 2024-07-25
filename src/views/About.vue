@@ -10,7 +10,8 @@
                             <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded" alt="Despre Noi">
                         </div>
                         <div class="col-lg-6 card border-0 p-3">
-                            <h2>Despre Noi</h2>
+                            <my-title name="Despre Noi"/>
+
                             <p> Suntem o echipă specializată în aranjarea și îngrijirea părului și a bărbii,
                                 oferim servicii personalizate pentru bărbați. Noi vă asigurăm menținerea
                                 aspectului îngrijit și elegant, sfaturi și recomandări pentru îngrijirea părului și a

@@ -5,7 +5,7 @@
 
             <section id="services" class="services">
                 <div class="container">
-                    <h2>Serviciile Noastre</h2>
+                    <my-title name="Serviciile Noastre"/>
                     <div class="row row row-cols-2 row-cols-md-3 row-cols-lg-6  text-center">
                         <div class="col-lg-4 mt-4">
                             <div class="card">

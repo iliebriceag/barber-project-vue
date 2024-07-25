@@ -9,7 +9,7 @@
                 <div class="container">
                     <div class="row justify-content-center">
                         <div class="col-md-6 text-center mb-5">
-                            <h2>Contact</h2>
+                            <my-title name="Contact" />
                         </div>
                     </div>
                     <div class="row justify-content-center">
@@ -18,21 +18,26 @@
                                 <div class="row mb-5">
                                     <div class="col-md-2">
                                         <div class="dbox w-100 text-center">
-                                            <div class="icon d-flex align-items-center justify-content-center">
-                                                <i class="bi bi-geo-alt-fill"></i>
-                                            </div>
-                                            <div class="text">
+                                            <a href="http://maps.google.com/?q=Bulevardul Uverturii 118"
+                                                class="text-white">
+                                                <div class="icon d-flex align-items-center justify-content-center">
+                                                    <i class="bi bi-geo-alt-fill"></i>
+                                                </div>
+                                            </a>
+                                            <div class="text-muted">
                                                 <p> Bulevardul Uverturii 118, București 077042 </p>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="col-md-2">
                                         <div class="dbox w-100 text-center">
-                                            <div class="icon d-flex align-items-center justify-content-center">
-                                                <i class="bi bi-telephone-fill"></i>
-                                            </div>
-                                            <div class="text">
-                                                <p>0761 234 567</p>
+                                            <a href="tel:0722669299" class="text-white">
+                                                <div class="icon d-flex align-items-center justify-content-center">
+                                                    <i class="bi bi-telephone-fill"></i>
+                                                </div>
+                                            </a>
+                                            <div class="text-muted">
+                                                <p>0722 669 299</p>
                                             </div>
                                         </div>
                                     </div>
@@ -41,7 +46,7 @@
                                             <div class="icon d-flex align-items-center justify-content-center">
                                                 <i class="bi bi-envelope-open-fill"></i>
                                             </div>
-                                            <div class="text">
+                                            <div class="text-muted">
                                                 <p>contact@maostudio.ro</p>
                                             </div>
                                         </div>
@@ -51,7 +56,7 @@
                                             <div class="icon d-flex align-items-center justify-content-center">
                                                 <i class="bi bi-facebook"></i>
                                             </div>
-                                            <div class="text">
+                                            <div class="text-muted">
                                                 <p>/Mao Studio</p>
                                             </div>
                                         </div>
@@ -61,7 +66,7 @@
                                             <div class="icon d-flex align-items-center justify-content-center">
                                                 <i class="bi bi-instagram"></i>
                                             </div>
-                                            <div class="text">
+                                            <div class="text-muted">
                                                 <p>/Mao Studio</p>
                                             </div>
                                         </div>
@@ -69,7 +74,7 @@
                                 </div>
                                 <div class="row no-gutters">
 
-                                    <div class="col-md-5 d-flex align-items-stretch">
+                                    <div class="col-md-5 d-flex align-items-stretch fadein">
                                         <div class="info-wrap w-100 p-5 image">
                                         </div>
                                     </div>
@@ -135,8 +140,6 @@
 
 
 <style scoped>
-
-
 .image {
     background-size: cover;
     background-repeat: no-repeat;

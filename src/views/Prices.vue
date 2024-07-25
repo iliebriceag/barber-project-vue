@@ -9,7 +9,8 @@
                 <div class="container">
                     <div class="row">
                         <div class="mb-4">
-                            <h2 class="text-center">Listă prețuri</h2>
+                            <my-title name="Listă prețuri"/>
+
                         </div>
                         <div class="card border-0 p-3">
                             <div>
