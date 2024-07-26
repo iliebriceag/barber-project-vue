@@ -231,7 +231,7 @@ export default {
   width: 100%;
   left: 0;
   right: 0;
-  z-index: 9222;
+  z-index: 8000;
   background-color: #111;
   height: 70px;
 }
@@ -314,7 +314,7 @@ div.social {
   width: 350px;
   position: fixed;
   height: 100%;
-  z-index: 1000;
+  z-index: 9000;
   left: 0;
   top: 0;
   background: #111;
