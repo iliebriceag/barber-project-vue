@@ -110,7 +110,7 @@ export default {
   right: 0;
   height: 70px;
   background-color: #111;
-  z-index: 9;
+  z-index: 9100;
 }
 
 .top-bar .top-bar-left {
@@ -231,7 +231,7 @@ export default {
   width: 100%;
   left: 0;
   right: 0;
-  z-index: 8000;
+  z-index: 9100;
   background-color: #111;
   height: 70px;
 }
