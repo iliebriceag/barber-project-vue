@@ -612,7 +612,7 @@ textarea.form-control {
 }
 
 .price-list-divider {
-    background: #da8a12;
+    background-image: linear-gradient(to right, #da8a12 0%, transparent 19%, #da8a12 42%, transparent 79%, #da8a12 100%);
     flex: auto;
     height: 1px;
     margin: auto 20px 0;
