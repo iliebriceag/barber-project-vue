@@ -10,7 +10,7 @@
                         <div class="col-lg-4 mt-4">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title primary-color"><img src="../assets/icons/cut.svg" alt=""
+                                    <h5 class="card-title primary-color"><img src="../assets/icons/cut.svg" alt="Frizerie Sector 6, Bucuresti"
                                             style="height: 100px;"></h5>
                                     <h5 class="card-title">Tuns modern</h5>
                                     <p class="card-text">Tunsori și stilizare a părului.</p>
@@ -20,7 +20,7 @@
                         <div class="col-lg-4 mt-4">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title primary-color"><img src="../assets/icons/mustache.svg" alt=""
+                                    <h5 class="card-title primary-color"><img src="../assets/icons/mustache.svg" alt="Frizerie Sector 6, Bucuresti"
                                             style="height: 100px;"></h5>
                                     <h5 class="card-title">Barbă perfectă</h5>
                                     <p class="card-text">Îngrijire și modelare pentru barbă.</p>
@@ -30,7 +30,7 @@
                         <div class="col-lg-4 mt-4">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title"><img src="../assets/icons/hands.svg" alt=""
+                                    <h5 class="card-title"><img src="../assets/icons/hands.svg" alt="Frizerie Sector 6, Bucuresti"
                                             style="height: 100px;">
                                     </h5>
                                     <h5 class="card-title">Masaj scalp</h5>
@@ -41,7 +41,7 @@
                         <div class="col-lg-4">
                             <div class="card mt-4">
                                 <div class="card-body">
-                                    <h5 class="card-title"><img src="../assets/icons/cut.svg" alt=""
+                                    <h5 class="card-title"><img src="../assets/icons/cut.svg" alt="Frizerie Sector 6, Bucuresti"
                                             style="height: 100px;">
                                     </h5>
                                     <h5 class="card-title">Tuns clasic</h5>
@@ -52,7 +52,7 @@
                         <div class="col-lg-4 mt-4">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title"><img src="../assets/icons/cream.svg" alt=""
+                                    <h5 class="card-title"><img src="../assets/icons/cream.svg" alt="Frizerie Sector 6, Bucuresti"
                                             style="height: 100px;">
                                     </h5>
                                     <h5 class="card-title">Tratamente</h5>
@@ -63,7 +63,7 @@
                         <div class="col-lg-4 mt-4">
                             <div class="card">
                                 <div class="card-body">
-                                    <h5 class="card-title"><img src="../assets/icons/chair.svg" alt=""
+                                    <h5 class="card-title"><img src="../assets/icons/chair.svg" alt="Frizerie Sector 6, Bucuresti"
                                             style="height: 100px;">
                                     </h5>
                                     <h5 class="card-title">Consiliere</h5>

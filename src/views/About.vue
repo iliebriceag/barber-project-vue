@@ -7,7 +7,7 @@
                 <div class="container">
                     <div class="row align-items-center">
                         <div class="col-lg-6">
-                            <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded" alt="Despre Noi">
+                            <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded" alt="Frizerie Sector 6, Bucuresti">
                         </div>
                         <div class="col-lg-6 card border-0 p-3">
                             <my-title name="Despre Noi"/>

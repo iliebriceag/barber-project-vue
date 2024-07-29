@@ -12,9 +12,14 @@ import myTitle from './components/Title.vue'
 import 'lightbox2/dist/css/lightbox.min.css'
 import lightbox2 from 'lightbox2/dist/js/lightbox-plus-jquery.min.js'
 
+import { createHead } from '@vueuse/head';
+
+const head = createHead();
+
 createApp(App)
 .use(bootstrap)
 .use(router)
+.use(head)
 .use(lightbox2)
 .component('my-title', myTitle)
 .mount('#app')

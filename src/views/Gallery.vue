@@ -9,40 +9,40 @@
                 <div class="mt-5 mb-5">
                     <div class="row gallery">
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="image col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Photo 1"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                     </div>
                 </div>
