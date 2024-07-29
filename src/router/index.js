@@ -6,7 +6,14 @@ const routes = [
   {
     path: '/',
     name: 'home',
-    component: Home
+    component: Home,
+    title: 'MAO Studio | Tunsori și stilizare a părului, Bărbierit și conturare a bărbii, Tratamente pentru păr și scalp, Sfaturi personalizate pentru îngrijirea părului și a bărbii, Aplicarea și recomandarea produselor profesionale de îngrijire',
+    metaTags: [
+      {
+        name: 'Detalii Frizeria MaoStudio din sectorul 6, Bucuresti',
+        content: 'Frizerie, Stilizare, Pensat, Masaj Scalp, Tunsori moderne, Tratamente'
+      }
+    ]
   },
   {
     path: "/contact", name: "Contact", component: () => import("../views/Contact.vue"), meta: {
