@@ -63,8 +63,8 @@
                     <div class="col-lg-4 mt-4 fadein">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title primary-color"><img src="../assets/icons/cut.svg" alt="Frizerie Sector 6, Bucuresti"
-                                        style="height: 100px;"></h5>
+                                <h5 class="card-title primary-color"><img src="../assets/icons/cut.svg"
+                                        alt="Frizerie Sector 6, Bucuresti" style="height: 100px;"></h5>
                                 <h5 class="card-title">Tuns modern</h5>
                                 <p class="card-text">Tunsori și stilizare a părului.</p>
                             </div>
@@ -73,8 +73,8 @@
                     <div class="col-lg-4 mt-4 fadein">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title primary-color"><img src="../assets/icons/mustache.svg" alt="Frizerie Sector 6, Bucuresti"
-                                        style="height: 100px;"></h5>
+                                <h5 class="card-title primary-color"><img src="../assets/icons/mustache.svg"
+                                        alt="Frizerie Sector 6, Bucuresti" style="height: 100px;"></h5>
                                 <h5 class="card-title">Barbă perfectă</h5>
                                 <p class="card-text">Îngrijire și modelare pentru barbă.</p>
                             </div>
@@ -83,8 +83,8 @@
                     <div class="col-lg-4 mt-4 fadein">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="../assets/icons/hands.svg" alt="Frizerie Sector 6, Bucuresti"
-                                        style="height: 100px;">
+                                <h5 class="card-title"><img src="../assets/icons/hands.svg"
+                                        alt="Frizerie Sector 6, Bucuresti" style="height: 100px;">
                                 </h5>
                                 <h5 class="card-title">Masaj scalp</h5>
                                 <p class="card-text">Relaxare totală cu masaj pentru scalp.</p>
@@ -94,7 +94,8 @@
                     <div class="col-lg-4 fadein">
                         <div class="card mt-4">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="../assets/icons/cut.svg" alt="Frizerie Sector 6, Bucuresti" style="height: 100px;">
+                                <h5 class="card-title"><img src="../assets/icons/cut.svg"
+                                        alt="Frizerie Sector 6, Bucuresti" style="height: 100px;">
                                 </h5>
                                 <h5 class="card-title">Tuns clasic</h5>
                                 <p class="card-text">Oferim tuns și modelare păr.</p>
@@ -104,8 +105,8 @@
                     <div class="col-lg-4 mt-4 fadein">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="../assets/icons/cream.svg" alt="Frizerie Sector 6, Bucuresti"
-                                        style="height: 100px;">
+                                <h5 class="card-title"><img src="../assets/icons/cream.svg"
+                                        alt="Frizerie Sector 6, Bucuresti" style="height: 100px;">
                                 </h5>
                                 <h5 class="card-title">Tratamente</h5>
                                 <p class="card-text">Pentru păr și scalp.</p>
@@ -115,8 +116,8 @@
                     <div class="col-lg-4 mt-4 fadein">
                         <div class="card">
                             <div class="card-body">
-                                <h5 class="card-title"><img src="../assets/icons/chair.svg" alt="Frizerie Sector 6, Bucuresti"
-                                        style="height: 100px;">
+                                <h5 class="card-title"><img src="../assets/icons/chair.svg"
+                                        alt="Frizerie Sector 6, Bucuresti" style="height: 100px;">
                                 </h5>
                                 <h5 class="card-title">Consiliere</h5>
                                 <p class="card-text">Sfaturi pentru îngrijirea părului și a bărbii.</p>
@@ -133,26 +134,34 @@
                 <div class="mt-5 mb-4\5">
                     <div class="row gallery">
                         <div class="col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg"
+                                    class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg"
+                                    class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg"
+                                    class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg"
+                                    class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg"
+                                    class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
                         <div class="col-md-4 col-6 gallery-card">
-                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg" class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
+                            <a href="/images/barber-hero.jpg" data-lightbox="models"><img src="/images/barber-hero.jpg"
+                                    class="gallery-img" alt="Frizerie Sector 6, Bucuresti"></a>
                         </div>
-                       
+
                     </div>
-                    <div class="more float-end btn-more"> <router-link to="/galerie" class="text-decoration-none text-white"><i class="bi bi-chevron-compact-right me-1"></i>Vezi mai multe...</router-link></div>
+                    <div class="more float-end btn-more"> <router-link to="/galerie"
+                            class="text-decoration-none text-white"><i class="bi bi-chevron-compact-right me-1"></i>Vezi
+                            mai multe...</router-link></div>
                 </div>
             </div>
         </section>
@@ -242,7 +251,8 @@
             <div class="container">
                 <div class="row align-items-center">
                     <div class="col-lg-6">
-                        <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded image-right" alt="Frizerie Sector 6, Bucuresti">
+                        <img src="../assets/images/hero-bg.jpg" class="img-fluid rounded image-right"
+                            alt="Frizerie Sector 6, Bucuresti">
                     </div>
                     <div class="col-lg-6 card border-0 p-3 fadein card-left">
                         <my-title name="Despre Noi" />
@@ -369,9 +379,10 @@
                         </div>
                     </div>
                 </div>
-                <iframe width="100%" height="400" id="gmap_canvas"
-                    src="https://maps.google.com/maps?q=Bulevardul Uverturii 118&t=&z=19&ie=UTF8&iwloc=&output=embed"
-                    frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                <iframe
+                    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175.5497949479977!2d26.026568585836515!3d44.44071514123288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b201a5ace3a0e3%3A0x4484f23361580373!2sBulevardul%20Uverturii%20118%2C%20Bucure%C8%99ti%20077042!5e0!3m2!1sro!2sro!4v1722320608365!5m2!1sro!2sro"
+                    height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                    style="width: 100%;"></iframe>
             </div>
         </section>
 

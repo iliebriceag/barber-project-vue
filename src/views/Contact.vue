@@ -121,9 +121,10 @@
                             </div>
                         </div>
                     </div>
-                    <iframe width="100%" height="400" id="gmap_canvas"
-                        src="https://maps.google.com/maps?q=Bulevardul Uverturii 118&t=&z=19&ie=UTF8&iwloc=&output=embed"
-                        frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe>
+                    <iframe
+                        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2175.5497949479977!2d26.026568585836515!3d44.44071514123288!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40b201a5ace3a0e3%3A0x4484f23361580373!2sBulevardul%20Uverturii%20118%2C%20Bucure%C8%99ti%20077042!5e0!3m2!1sro!2sro!4v1722320608365!5m2!1sro!2sro"
+                        height="450" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+                        style="width: 100%;"></iframe>
 
                 </div>
             </section>
