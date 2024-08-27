@@ -15,8 +15,8 @@
         <router-link to="/contact">Contact</router-link>
       </div>
       <div class="social mt-5">
-        <a href="" class="me-2"><i class="bi bi-facebook"></i></a>
-        <a href=""><i class="bi bi-instagram"></i></a>
+        <a href="https://www.facebook.com/mao4studio/" class="me-2"><i class="bi bi-facebook"></i></a>
+        <a href="https://www.instagram.com/maostudio_bucuresti/"><i class="bi bi-instagram"></i></a>
       </div>
     </nav>
     <div id="content" class="w-100">

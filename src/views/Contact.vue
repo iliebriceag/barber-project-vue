@@ -53,9 +53,11 @@
                                     </div>
                                     <div class="col-md-2">
                                         <div class="dbox w-100 text-center">
+                                            <a href="https://www.facebook.com/mao4studio/" class="text-white">
                                             <div class="icon d-flex align-items-center justify-content-center">
                                                 <i class="bi bi-facebook"></i>
                                             </div>
+                                            </a>
                                             <div class="text-muted">
                                                 <p>/Mao Studio</p>
                                             </div>
@@ -63,9 +65,11 @@
                                     </div>
                                     <div class="col-md-2">
                                         <div class="dbox w-100 text-center">
+                                            <a href="https://www.instagram.com/maostudio_bucuresti/" class="text-white">
                                             <div class="icon d-flex align-items-center justify-content-center">
                                                 <i class="bi bi-instagram"></i>
                                             </div>
+                                            </a>
                                             <div class="text-muted">
                                                 <p>/Mao Studio</p>
                                             </div>
